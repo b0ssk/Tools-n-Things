@@ -8,3 +8,5 @@ Run from directory with your frames, will create your video and tidy up after it
 a named directory based on the file name.
 
 Dependancies: ffmpeg linked into your system path so the script can find it easily.
+Filename should be 4 digit padded, but can alter in the script, and should have the name and padding deliminated by an _ as an example 
+animTest_0001.jpg
